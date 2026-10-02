@@ -41,12 +41,12 @@ Actualmente ampliando y perfeccionando habilidades en:
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+<!--## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=p3p3lu-00&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p3p3lu-00&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</div>
+</div> -->
 
 ---
 
