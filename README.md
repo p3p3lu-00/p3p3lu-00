@@ -32,7 +32,7 @@ Actualmente ampliando y perfeccionando habilidades en:
 - 🎨 **Frameworks CSS** e integración web.
 
 ---
-
+ 
 ## 📁 Proyectos en Desarrollo
 
 🚀 *Actualmente trabajando en mis primeras prácticas, en proceso de desarrollo del TFG y proyectos del 2º curso de DAW.*
