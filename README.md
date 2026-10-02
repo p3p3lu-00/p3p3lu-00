@@ -52,5 +52,5 @@ Actualmente ampliando y perfeccionando habilidades en:
 
 ## 📫 Contacto
 
-<!-- - 💼 **LinkedIn**: [tu-perfil](https://linkedin.com/in/tu-usuario) -->
+<!-- - 💼 **LinkedIn**: [Jose Luis](https://www.linkedin.com/in/jose-luis-p%C3%A9rez-rub%C3%ADn-blanco-116752440/) -->
 - ✉️ **Email**: [josespider04@gmail.com](mailto:tu-email@ejemplo.com)
