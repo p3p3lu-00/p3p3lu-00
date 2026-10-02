@@ -35,7 +35,7 @@ Actualmente ampliando y perfeccionando habilidades en:
 
 ## 📁 Proyectos en Desarrollo
 
-🚀 *Actualmente trabajando en mis primeras prácticas y proyectos del 2º curso de DAW.*
+🚀 *Actualmente trabajando en mis primeras prácticas, en proceso de desarrollo del TFG y proyectos del 2º curso de DAW.*
 
 <!-- - 🛠️ **[Nombre del Proyecto]**: Breve descripción del proyecto y tecnologías utilizadas (ej. PHP, MySQL, HTML/CSS). -->
 
