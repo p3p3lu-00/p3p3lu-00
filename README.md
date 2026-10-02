@@ -20,10 +20,10 @@ Tengo 22 años y actualmente estoy cursando el 2º año del **Grado Superior de 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes%20%26%20Networking-005596?style=flat-square&logo=cisco&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware%20%26%20Montaje-555555?style=flat-square&logo=intel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes%20%26%20Networking-005596?style=for-the-badge&logo=cisco&logoColor=white)
+![Hardware](https://img.shields.io/badge/Hardware%20%26%20Montaje-555555?style=for-the-badge&logo=intel&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
