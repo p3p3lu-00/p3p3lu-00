@@ -30,9 +30,9 @@ Tengo 22 años y actualmente estoy cursando el 2º año del **Grado Superior de 
 ## 📚 En Proceso de Aprendizaje
 
 Actualmente ampliando y perfeccionando habilidades en:
-- ⚡ **JavaScript Avanzado** y desarrollo web dinámico.
+- ⚡ **JavaScript** y desarrollo web dinámico.
 - 🐘 **PHP & Programación Orientada a Objetos**.
-- ☕ **Java avanzado** y resolución de problemas.
+- ☕ **Java** y resolución de problemas.
 - 🎨 **Frameworks CSS** e integración web.
 
 ---
